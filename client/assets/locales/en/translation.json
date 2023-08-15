@@ -1,0 +1,12 @@
+{
+  "app": {
+    "greeting": "Greeting, that is sample app!",
+    "table": {
+      "noContent": "No content. Add new task by postman: POST: http://localhost:3001/api/task, {'name': 'test 1', 'description': 'test description'}",
+      "head": {
+        "nameCol": "Name",
+        "descriptionCol": "Description"
+      }
+    }
+  }
+}

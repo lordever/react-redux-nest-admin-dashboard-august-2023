@@ -1,6 +1,8 @@
 const path = require("path");
 const HtmlWebpackPlugin = require("html-webpack-plugin");
 
+const BACKEND_PORT = 3001;
+
 module.exports = {
     entry: "./src/index.tsx",
     devtool: 'inline-source-map',
@@ -78,5 +80,11 @@ module.exports = {
         },
         open: true,
         port: 3000,
+        proxy: {
+            '/api': {
+                target: `http://localhost:${BACKEND_PORT}`,
+                changeOrigin: true,
+            },
+        },
     }
 };
