@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6cf0a1d2-2848-4d76-9abc-ae5bed3090e3" name="Changes" comment="New package.json project name">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/setupProxy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/.eslintrc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/.prettierrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/nest-cli.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/package.json" afterDir="false" />
+    <list default="true" id="6cf0a1d2-2848-4d76-9abc-ae5bed3090e3" name="Changes" comment="Template has been completed">
       <change afterPath="$PROJECT_DIR$/server/src/app.controller.spec.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/server/src/app.controller.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/server/src/app.module.ts" afterDir="false" />
@@ -25,29 +15,7 @@
       <change afterPath="$PROJECT_DIR$/server/src/task/task.service.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/server/test/app.e2e-spec.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/server/test/jest-e2e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/tsconfig.build.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shared/models/task.model.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.babelrc" beforeDir="false" afterPath="$PROJECT_DIR$/client/.babelrc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/client/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/twitter.png" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/images/twitter.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/locales/en/translation.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/locales/en/translation.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/declaration.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/less.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/less.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-typescript-less-webpack-project-template.iml" beforeDir="false" afterPath="$PROJECT_DIR$/client/react-typescript-less-webpack-project-template.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.container.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.container.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/common/fonts/fonts.less" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/common/fonts/fonts.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/common/styles/common.less" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/common/styles/common.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/common/text/text.component.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/common/text/text.component.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/common/text/text.module.less" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/common/text/text.module.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/i18n.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/i18n.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/tsconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/webpack.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +31,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -87,6 +56,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "ts.external.directory.path": "C:\\Users\\OVERY\\IdeaProjects\\react-redux-nest-admin-dashboard-auugust-2023\\client\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   }
@@ -135,8 +105,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.start (1)" />
         <item itemvalue="npm.start" />
+        <item itemvalue="npm.start (1)" />
         <item itemvalue="npm.build" />
       </list>
     </recent_temporary>
@@ -151,7 +121,7 @@
       <updated>1691420084211</updated>
       <workItem from="1691420085263" duration="253000" />
       <workItem from="1691420347764" duration="79000" />
-      <workItem from="1692121631248" duration="6087000" />
+      <workItem from="1692121631248" duration="6472000" />
     </task>
     <task id="LOCAL-00001" summary="New package.json project name">
       <created>1692121712453</created>
@@ -160,14 +130,25 @@
       <option name="project" value="LOCAL" />
       <updated>1692121712453</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Template has been completed">
+      <created>1692127857211</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1692127857211</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/server" />
+    </ignored-roots>
     <MESSAGE value="New package.json project name" />
-    <option name="LAST_COMMIT_MESSAGE" value="New package.json project name" />
+    <MESSAGE value="Template has been completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Template has been completed" />
   </component>
 </project>
