@@ -2,28 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6cf0a1d2-2848-4d76-9abc-ae5bed3090e3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.babelrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/twitter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/locales/en/translation.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/declaration.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/less.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-typescript-less-webpack-project-template.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.container.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/fonts/fonts.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/styles/common.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/common/text/text.component.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/common/text/text.module.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/i18n.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,6 +72,7 @@
       <updated>1691420084211</updated>
       <workItem from="1691420085263" duration="253000" />
       <workItem from="1691420347764" duration="79000" />
+      <workItem from="1692121631248" duration="63000" />
     </task>
     <servers />
   </component>
